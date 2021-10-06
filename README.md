@@ -1,7 +1,6 @@
 # Lambda Calculus Interpreter
 
-A λ-calculus interpreter made with some languages to study new languages and
-this formal system.
+A λ-calculus interpreter made to study new languages and this formal system.
 
 ## References
 
